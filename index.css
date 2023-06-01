@@ -1,0 +1,29 @@
+body {
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+text-decoration: none;
+}
+
+header img {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    border: 5px blue;
+}
+
+.center {
+    text-align: center;
+}
